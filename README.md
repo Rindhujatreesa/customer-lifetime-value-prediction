@@ -2,7 +2,7 @@
 Auto Insurance Customer Lifetime Value Prediction and Analysis
 
 ## Team 4: Data Walkers
-Kumbam Nithin Goud <br>
+Nithin <br>
 Rindhuja Treesa Johnson <br>
 Prudhvi Yaswanth Mundluri <br>
 
